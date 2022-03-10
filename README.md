@@ -37,3 +37,7 @@ Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob
 ## Implement Multicall
 
 Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/MultiCall.sol)
+
+## Implement Hodl - users deposit eth but can only withdraw after a certain time has elapsed
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/Hodl.sol)
