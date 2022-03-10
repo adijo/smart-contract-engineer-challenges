@@ -25,3 +25,15 @@ Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob
 ## Implement Dutch Auction
 
 Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/DutchAuction.sol)
+
+## Use the low level function `call` to call other contracts
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/Call.sol)
+
+## Use the low level function `delegatecall` to call other contracts
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/DelegateCall.sol)
+
+## Implement Multicall
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/MultiCall.sol)
