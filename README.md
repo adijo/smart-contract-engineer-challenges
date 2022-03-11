@@ -61,3 +61,7 @@ Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob
 ## Implement a Reentrancy Guard
 
 Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/ReentrancyGuard.sol)
+
+## Implement English Auction
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/EnglishAuction.sol)
