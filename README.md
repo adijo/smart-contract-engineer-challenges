@@ -52,7 +52,7 @@ Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob
 
 ## Implement Signature Verification
 
-Code is [here.]Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/VerifySig.sol)
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/VerifySig.sol)
 
 ## Implement Create2
 
