@@ -45,3 +45,7 @@ Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob
 ## Implement Crowd Fund
 
 Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/CrowdFund.sol)
+
+## Implement MultiDelegateCall
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/MultiDelegateCall.sol)
