@@ -53,3 +53,11 @@ Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob
 ## Implement Signature Verification
 
 Code is [here.]Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/VerifySig.sol)
+
+## Implement Create2
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/Create2Factory.sol)
+
+## Implement a Reentrancy Guard
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/ReentrancyGuard.sol)
