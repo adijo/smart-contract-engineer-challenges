@@ -77,3 +77,7 @@ Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob
 ## CTF: Upgradeable Wallet Exploit
 
 Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/UpgradableWalletExploit.sol)
+
+## CTF: Signature Replay Exploit (this one was lame lol)
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/SignatureReplayExploit.sol)
