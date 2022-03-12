@@ -65,3 +65,11 @@ Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob
 ## Implement English Auction
 
 Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/EnglishAuction.sol)
+
+## CTF: Seven ETH
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/SevenEthExploit.sol)
+
+## CTF: Function Selector Exploit
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/FunctionSelectorExploit.sol)

