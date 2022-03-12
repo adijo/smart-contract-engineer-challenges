@@ -73,3 +73,7 @@ Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob
 ## CTF: Function Selector Exploit
 
 Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/FunctionSelectorExploit.sol)
+
+## CTF: Upgradeable Wallet Exploit
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/UpgradableWalletExploit.sol)
