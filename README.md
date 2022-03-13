@@ -89,3 +89,7 @@ Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob
 ## CTF: ERC20 Lending Pool Exploit
 
 Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/LendingPoolExploit.sol)
+
+## CTF: Multi Token Bank Exploit
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/MultiTokenBankExploit.sol)
