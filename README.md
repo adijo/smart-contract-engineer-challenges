@@ -81,3 +81,11 @@ Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob
 ## CTF: Signature Replay Exploit (this one was lame lol)
 
 Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/SignatureReplayExploit.sol)
+
+## CTF: ETH Lending Pool Exploit
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/EthLendingPoolExploit.sol)
+
+## CTF: ERC20 Lending Pool Exploit
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/LendingPoolExploit.sol)
