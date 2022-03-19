@@ -93,3 +93,11 @@ Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob
 ## CTF: Multi Token Bank Exploit
 
 Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/MultiTokenBankExploit.sol)
+
+## CTF: Bypass Contract Size Exploit
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/NoContractExploit.sol)
+
+## Implement Commit Reveal
+
+Code is [here.](https://github.com/adijo/smart-contract-engineer-challenges/blob/master/contracts/CommitReveal.sol)
